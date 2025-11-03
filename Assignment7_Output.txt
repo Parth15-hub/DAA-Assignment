@@ -1,0 +1,51 @@
+=== EXAM SLOTS (no clashes) ===
+Total Exam Slots Used: 5
+---------------------------------
+Slot 0 :
+  - Math101
+---------------------------------
+Slot 1 :
+  - Bio105
+---------------------------------
+Slot 2 :
+  - Phys101
+---------------------------------
+Slot 3 :
+  - AI201
+---------------------------------
+Slot 4 :
+  - Chem101
+---------------------------------
+
+FINAL TIMETABLE WITH ROOMS
+=================================
+Slot 0 :
+  Course : Math101
+    Students : 5
+    Rooms    : [LH101]
+    Status   : OK
+---------------------------------
+Slot 1 :
+  Course : Bio105
+    Students : 4
+    Rooms    : [LH101]
+    Status   : OK
+---------------------------------
+Slot 2 :
+  Course : Phys101
+    Students : 3
+    Rooms    : [LH101]
+    Status   : OK
+---------------------------------
+Slot 3 :
+  Course : AI201
+    Students : 4
+    Rooms    : [LH101]
+    Status   : OK
+---------------------------------
+Slot 4 :
+  Course : Chem101
+    Students : 4
+    Rooms    : [LH101]
+    Status   : OK
+---------------------------------
