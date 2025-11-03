@@ -1,0 +1,13 @@
+=== PLAN A: Pure Utility Optimization ===
+Max Utility: 29
+Chosen item indices: [0, 1, 2]
+  Item 0 | weight=5 | utility=10 | type=medical
+  Item 1 | weight=7 | utility=13 | type=food
+  Item 2 | weight=3 | utility=6 | type=blanket
+
+=== PLAN B: Priority-Aware (Medical / Perishable Boosted) ===
+Max Adjusted Utility: 38
+Chosen item indices: [0, 4, 5]
+  Item 0 | weight=5 | baseUtility=10 | boostedUtility=15 | type=medical
+  Item 4 | weight=4 | baseUtility=8 | boostedUtility=12 | type=perishable
+  Item 5 | weight=6 | baseUtility=11 | boostedUtility=11 | type=tool
