@@ -1,0 +1,16 @@
+Minimum delivery cost: 9
+Route (node ids by stage): [0, 2, 5, 6]
+Readable Route:
+ -> Warehouse_A
+ -> Hub_X
+ -> Dispatch_Q
+ -> Customer_Alpha
+
+After traffic update:
+New Minimum delivery cost: 9
+New Route (node ids by stage): [0, 2, 5, 6]
+New Readable Route:
+ -> Warehouse_A
+ -> Hub_X
+ -> Dispatch_Q
+ -> Customer_Alpha
